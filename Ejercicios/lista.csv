@@ -1,0 +1,101 @@
+Vuelo,Tipo Aeronave,Pasajeros,Estado
+HK4521,Turbohélice,38,En plataforma
+HK3890,Jet regional,62,En aproximación
+HK1203,General,12,Programado
+HK6022,Bombardier CRJ,56,Cancelado
+HK7550,Jet regional,63,En plataforma
+HK5016,Airbus A330,304,En plataforma
+HK4287,General,15,En vuelo
+HK3193,Jet regional,74,En check-in
+HK3320,Boeing 737,364,En check-in
+HK9358,Boeing 787,275,Demorado
+HK1067,Jet regional,64,En check-in
+HK3481,Embraer E175,63,Cancelado
+HK2966,General,12,En plataforma
+HK1396,Airbus A330,202,Cancelado
+HK3708,Embraer E175,75,En rodaje
+HK0957,Jet privado,14,En aproximación
+HK3942,Jet privado,15,Aterrizado
+HK5745,Embraer E175,64,Abordando
+HK5001,Cessna Citation,6,Cancelado
+HK4039,Airbus A330,218,Aterrizado
+HK8076,Airbus A330,226,Cancelado
+HK3210,Bombardier CRJ,96,En rodaje
+HK9751,Cessna Citation,8,Cancelado
+HK5131,Airbus A330,90,Demorado
+HK3098,ATR 72,45,Programado
+HK2507,Jet regional,98,Aterrizado
+HK7145,ATR 72,63,Demorado
+HK4257,Jet privado,15,En rodaje
+HK3638,Boeing 737,151,En plataforma
+HK2352,Jet privado,4,En check-in
+HK7000,Embraer E175,54,Aterrizado
+HK2621,Boeing 787,332,En plataforma
+HK7810,Airbus A320,271,En vuelo
+HK4806,Cessna Citation,5,Programado
+HK4382,Jet privado,12,En aproximación
+HK1148,Jet regional,78,Aterrizado
+HK0650,Jet regional,98,En plataforma
+HK1424,Turbohélice,40,En vuelo
+HK0397,ATR 72,57,Aterrizado
+HK6412,Turbohélice,67,Aterrizado
+HK0304,Airbus A330,170,Programado
+HK9015,Cessna Citation,17,En plataforma
+HK4955,Turbohélice,69,En check-in
+HK4559,Jet privado,14,Despegado
+HK2362,Embraer E175,98,En check-in
+HK0650,Airbus A330,199,Aterrizado
+HK2988,Embraer E175,68,Abordando
+HK4539,Cessna Citation,12,Programado
+HK6591,General,8,En check-in
+HK8712,Jet privado,15,Despegado
+HK2624,Turbohélice,35,Cancelado
+HK4207,Cessna Citation,8,Abordando
+HK7540,Jet regional,94,Abordando
+HK5851,General,4,En rodaje
+HK3990,Embraer E175,63,Cancelado
+HK2178,Airbus A320,169,En plataforma
+HK8988,Turbohélice,41,Despegado
+HK7467,Jet privado,8,Abordando
+HK7188,Jet privado,7,En aproximación
+HK3882,Cessna Citation,7,En vuelo
+HK3892,Cessna Citation,12,En vuelo
+HK6830,ATR 72,41,Demorado
+HK9214,Bombardier CRJ,100,Despegado
+HK4918,Jet privado,8,Programado
+HK7095,Bombardier CRJ,97,Cancelado
+HK1499,Boeing 787,250,Cancelado
+HK8733,Airbus A320,257,En vuelo
+HK6516,Airbus A320,179,Demorado
+HK5483,Jet privado,10,Demorado
+HK6346,Airbus A330,332,Abordando
+HK6266,Jet regional,98,En plataforma
+HK6210,Jet privado,11,Demorado
+HK8046,Jet privado,15,En vuelo
+HK4260,Jet regional,99,En vuelo
+HK2864,Airbus A330,217,En check-in
+HK4869,Boeing 787,252,En aproximación
+HK6758,Airbus A330,318,Abordando
+HK7422,Cessna Citation,8,Aterrizado
+HK4247,Jet privado,8,Despegado
+HK3512,Bombardier CRJ,59,En plataforma
+HK0454,Jet privado,17,En vuelo
+HK3790,Boeing 787,284,En aproximación
+HK0378,Airbus A320,365,Aterrizado
+HK7842,Boeing 737,104,En vuelo
+HK3641,Boeing 737,155,Demorado
+HK5956,Jet regional,91,En vuelo
+HK1403,Jet privado,11,Despegado
+HK3829,Airbus A320,219,En check-in
+HK4709,Jet privado,14,En check-in
+HK7679,Jet privado,17,Programado
+HK6241,Jet privado,11,En rodaje
+HK7167,Jet regional,99,Abordando
+HK9103,Cessna Citation,18,En vuelo
+HK3706,Cessna Citation,7,En check-in
+HK6368,Boeing 787,111,Despegado
+HK5606,Turbohélice,56,En aproximación
+HK1968,Bombardier CRJ,59,En vuelo
+HK1566,Airbus A330,337,En aproximación
+HK4728,Jet regional,67,En aproximación
+HK2463,Turbohélice,61,Despegado
